@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/revanshphull/xK-groth16/zkCNN_complete/cmake-build-release/cmake_install.cmake",
+		"/Users/revanshphull/xK-groth16/zkCNN_complete/cmake-build-release/src/cmake_install.cmake",
+		"/Users/revanshphull/xK-groth16/zkCNN_complete/cmake-build-release/3rd/hyrax-bls12-381/cmake_install.cmake",
+		"/Users/revanshphull/xK-groth16/zkCNN_complete/cmake-build-release/3rd/hyrax-bls12-381/src/cmake_install.cmake",
+		"/Users/revanshphull/xK-groth16/zkCNN_complete/cmake-build-release/3rd/hyrax-bls12-381/3rd/mcl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
